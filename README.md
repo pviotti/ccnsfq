@@ -3,11 +3,15 @@ In this context, a CCNx flow is identified by the CCNx name (including the file 
 
 This packet scheduler was developed in _2010_, as a collateral effort for my M.Sc. thesis in computers and communication networks at [PoliTo][3] and [Telecom ParisTech][4], during a six months intership at [Orange Labs][5].  
 
+For the performance results obtained using this scheduler, please refer to [my M.Sc. thesis][6].
+
+
 [1]: http://lxr.linux.no/#linux+v2.6.32.61/net/sched/sch_sfq.c
 [2]: http://www.ccnx.org/
 [3]: http://www.polito.it/
 [4]: http://www.telecom-paristech.fr
 [5]: http://www.orange.com/en/innovation/research
+[6]: http://perso.rd.francetelecom.fr/muscariello/MS-thesis-viotti.pdf
 
 
 ### Features and requirements
